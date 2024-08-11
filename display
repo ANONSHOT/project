@@ -1,0 +1,14 @@
+ List the details of students who borrowed the books which are all
+published by the same . . publisher
+====SELECT S.NAME, COUNT(BK.PUBLISHER) FROM STUDENT S, BOOK BK, BORROW B WHERE S.USN = B.USN AND B.BKID = BK.BKID GROUP BY S.NAME HAVING COUNT(BK.PUBLISHER) > 1;
+
+
+Display the student details who borrowed books of more than one
+Author.
+====SELECT S.NAME, COUNT(DISTINCT BK.AID) FROM STUDENT S, BOOK BK, BORROW B WHERE S.USN = B.USN AND B.BKID = BK.BKID GROUP BY S.NAME HAVING COUNT(DISTINCT BK.AID) > 1;
+
+
+ (a) Display the student details who borrowed more than two books
+===SELECT S.NAME FROM STUDENT S, BORROW B WHERE S.USN = B.USN GROUP BY S.NAME HAVING COUNT(DISTINCT B.BKID) > 2;
+
+
