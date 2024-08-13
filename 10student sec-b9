@@ -1,0 +1,14 @@
+9. Write the procedure to store the data and calculate total and percentage of the 
+following details for 10 Students.Generate marks card.( In Ms Access)
+ Enter the following details for 10 Students Register Number, Name, Subject1 
+Marks,Subject2 Marks, Subject3 Marks, Subject4 Marks, Total Marks and
+Percentage.
+Procedure:
+a) Open Ms Access->new database->give a name.
+b) Type the Register Number, Name, Sub1,Sub2,Sub3,Sub4,Total and percentage and 
+correct data type in design mode ->Save the table.
+c) Go to Datasheet view add all the details for 10 students->save the table.
+d) Go to create tab click in query wizard->select table once->close.
+e) Select all the fields from the table by double clicking->add fromula for total and 
+percentage.
+f) Click in RUN! to get the output
