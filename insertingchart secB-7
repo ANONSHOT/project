@@ -1,0 +1,26 @@
+7. Creation of Inserting chart and organization chart in PowerPoint.( Eight salesmen 
+sell three products for a week.)
+Eight salesmen sell three products for a week. Using a spreadsheet create a sales 
+report. The report should include the name of the salesman, Amount of sales for each 
+product and the salesman's total sales in the format given below
+
+
+Procedure
+1. Enter the data for the columns name, product 1, product 2, product 3.
+2. Resize the worksheet's rows and columns.
+ Select rows - HOME - Cells - Format - Auto fit Row Height.
+ Select columns - HOME - Cells - Format - Auto fit column Width.
+3. Format all the numbers as currency.
+ Select B3 E7
+ Press HOME - Format - Format cells.
+ Select Number tab - Choose proper currency from the category list box.
+4. To center the spreadsheet heading.
+ Select A2:E2
+ HOME 4 Merge and Center.
+5. Enter the formula =B3+C3-D3 in the cell E3 to fund total sales.
+6. Enter the formula =sum (B3:B7) into the cell B9 to find total amount for product 
+and apply the formula for product2 and product3 and total sales for all salesmen for the 
+month. Save the file.
+7. Open Ms Powerpoint.
+8. In the 1st slide copy paste the data of eight salesman which was typed in excel sheet.
+9. Insert a bar gragh for the typed data in the powerpoint
