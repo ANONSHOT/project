@@ -23,3 +23,21 @@ marks, sub4 marks.
 4. Create the formula to compute total marks, percentage, highest marks and lowest marks 
 in the respective cells 
 5. Draw a bar graph for Register number against total marks
+Select the cells G3:G12
+ Insert --> 2 D Bar
+ Choose design-->select data
+Select Horizontal axis label --> Edit --> select the cells A3:A12 --> ok
+Select series l --> Edit --> type series name as total marks
+ Layout --> Chart title --> Above the chart --> type "Total marks of a class with 
+register 
+number"
+ Layout --> Axis title --> Primary vertical axis --> vertical title --> type Register 
+number
+ Layout --> Axis title --> Primary horizontal axis --> title below axis --> type Total 
+marks
+ 6. Draw a pie chart for one student showing his marks in different subjects from total score
+ Select the cells C3: F3
+ Insert --> pie --> 2-D pie
+ Layout --> Chart title --> Above the chart --> type the respective student name
+ Right Click on graph --> select data -->horizontal axis label --> edit --> select c2 to f2 
+ headings --> ok
