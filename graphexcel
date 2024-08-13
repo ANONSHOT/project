@@ -1,0 +1,13 @@
+6. Graph-Plotting facilities in MS Excel.(Display student results using excel charts.)
+ Enter the following details for 10 Students Register Number, Name, Subject1
+Marks,Subject2 Marks, Subject3 Marks, Subject4 Marks, Total Marks and
+Percentage.
+a) Type the Register Number, Name and marks of four subjects for 10students in the
+spreadsheet.
+b) Format all text and numeric data appropriately.
+c) Center the spreadsheet headings across the spreadsheet.
+d) Create a formula to compute the Total marks and copy this to all the cells.
+e) Create a formula to compute Percentage and copy this to all the cells.
+f) Create a formula to compute the highest and lowest score using a libraryfunction.
+g) Draw a bar graph for Register Number against total marks.
+h) Draw Pie chart for one student showing his marks in different subject from total score
