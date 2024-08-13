@@ -1,0 +1,8 @@
+10.Create a report containing pay details of employees of a company.( In Ms Access).
+a) Type the Employee Code, Employee Name, Basic Salary and Loan Amount data for 10
+employees in the Ms Access.
+b) Create a formula to compute DA as 50% of the Basic salary. 
+c) Create a formula to compute HRA as 12% of the Basic salary.
+d) Create a formula to compute Total salary.
+e) Create a formula to compute Annual income.
+f) Generate employe payroll report
