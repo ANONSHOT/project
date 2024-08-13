@@ -1,0 +1,38 @@
+20. A Bank offers loan for housing and vehicle at an interest of 10.25% for housing 
+and 14.2% for vehicle. For all the 5 loan applicants compute the monthly 
+premium(EMI), given total installments as 24 months. Also compute the monthly 
+interest and monthly principal amount and the amount of principal and Interest paid 
+using Financial Library functions in a spreadsheet.
+Enter the details for the columns such as applicant name, loan type, loan amount 
+number of installment as 24. Then enter the following formula in the respective cells.
+A B C D E F G H I J
+1 JGI BANK
+2 Applicant 
+Name
+Loan 
+Type
+Loan 
+Amount
+No of 
+Installments
+Rate of 
+Interest
+Monthly 
+EMI
+1st 
+Month 
+Interest
+1
+st
+Month 
+Principal
+Total 
+Principal
+Total 
+Interest
+Rate of interest = if (B3="CAR", 14.2%, 10.25%)
+Monthly EMI =PMT(E3/12,D3,-C3)
+First month interest = IPMT(E3/12,1,D3,-C3)
+First month principal =PPMT(e3/12,1,d3,-c3)
+Total principal =CUMPRINC(E3/12,D3,C3,1,24,1)
+Total interest =CUMIPMT(E3/12,D3,C3,1,24,1
