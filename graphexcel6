@@ -11,3 +11,15 @@ e) Create a formula to compute Percentage and copy this to all the cells.
 f) Create a formula to compute the highest and lowest score using a libraryfunction.
 g) Draw a bar graph for Register Number against total marks.
 h) Draw Pie chart for one student showing his marks in different subject from total score
+
+Procedure
+1. Enter the details for 10 students such as Regno, name, subl marks, sub2 marks, sub3 
+marks, sub4 marks.
+2. Resize the worksheet's rows and columns.
+ Select row --> HOME --> Cell --> Format Auto fit Row Height.
+ Select column --> HOME --> Cells --> Format --> Auto fit column Width.
+3. To center the spreadsheet heading.
+ Select A1:I1 --> HOME --> Merge and Center.
+4. Create the formula to compute total marks, percentage, highest marks and lowest marks 
+in the respective cells 
+5. Draw a bar graph for Register number against total marks
