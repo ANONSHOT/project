@@ -1,0 +1,80 @@
+SECTION-A
+1.Creating the documents with Special effects like underline, bold, different size, different font and different color.
+Procedure
+ 1. Open MS Office-MS Word – File – New - Type the heading 
+2. Type the topic heading-Bold,increase the size using font tools. 
+3. Type a paragraph on the above mentiond topic. 
+4. Format the text by changing the font size and color by selecting the required text and chose font size, style and color in the formatting tool bar below the menu.
+				
+         Artificial Intelligence (AI)
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, language understanding, and decision-making.
+Artificial Intelligence (AI) works by simulating human intelligence through the use of algorithms, data, and computational power. The goal is to enable machines or software to perform tasks that typically require human intelligence, such as learning, reasoning, problem-solving, perception, and language understanding.
+2. Creating Paragraphs Inserting Date & Time, Pictures, Bullets & Numbering , indentation etc. in MS-Word.
+Procedure
+ 1. Open MS Office-MS Word – File – New - Type the heading
+ 2. Type the topic heading-Bold,increase the size using font tools. 
+3. Type few points on the above mentiond topic. 
+4. Add bullets to the typed points by selecting Bullets from Home toolbar. 
+5. Apply indentation to the points and sub points. 
+6. To insert go to Insert- Picture-From file- and browse for the required picture/file-then click Insert.
+ 7. Format the text by changing the font size and color by selecting the required text and chose font size, style and color in the formatting tool bar below the menu.
+ 8. To insert date and time go to Insert tab and select date/time and select the required format.
+
+
+
+				Advantages of Computer
+                                                   Monday, 17 June 2024
+1.	Speed and Efficiency:
+●	Fast Processing: Computers can process large amounts of data and perform complex calculations in a fraction of the time it would take a human.
+●	Automation: They can automate repetitive tasks, increasing efficiency and reducing human error.
+2.	Storage and Retrieval:
+●	Data Storage: Computers can store vast amounts of information in a relatively small physical space.
+●	Quick Access: Information can be retrieved quickly and efficiently, improving productivity and decision-making.
+3.	Communication:
+●	Instant Messaging and Email: Computers enable instant communication through emails, messaging apps, and video conferencing.
+●	Global Connectivity: They connect people globally, facilitating collaboration and information exchange. 
+
+3. Formatting features of MS-Word.-it includes paper-size, margins, header and footer, page no and creation of table options.(Time Table).
+Procedure
+1. Open MS Office-MS Word – File – New
+2. Go to Layout- Select any Margin option you like and– Click Ok.
+3. Go to Layout-select paper-size from SIZE.
+4. Go to Insert-add header, footer and pageno.
+5. Go to Table-Insert-Table- chose Number of Columns and Rows as per the data to be entered.(Both education qualification and language known)
+6. Enter the details, format it (bold and increase the font size via standard tool Bar).
+7. When ever you want to increase the number of column in the existing row, Select that row and go to Table-click Split Cells- enter number of columns- click Ok.
+8. In order to decrease the existing column numbers, select that columns and Go to Tablesclick Merge cells.
+
+4. Creation of mail merge for sending the new year wish to your class group.
+Procedure:
+1.Open MS Office-MS Word – File – New 
+2. Type your letter which you want to send to the multiple addresses.
+Example:
+Subject: Happy New Year 2025!
+Dear [Friend's Name],
+I hope this message finds you well.
+As we bid farewell to 2024 and welcome 2025, I wanted to take a moment to send you my warmest wishes for the New Year. May this year bring you joy, health, and prosperity.
+Looking back on the past year, I am grateful for all the wonderful memories we have shared and the experiences that have brought us closer. I am excited about the adventures and opportunities that lie ahead in 2025, and I look forward to making many more cherished memories with you.
+Wishing you and your loved ones a fantastic New Year filled with happiness, love, and success.
+Cheers to 2025!
+Warm regards,
+[Your Name]
+4.	Go to Tool- Mailings- Click: Starting Mail merge- next Select  Step by step mail merge wizard-Click on  Next at right side window🡪Next🡪Browse🡪Select excel file which has the following fields🡪save excel file as dataset.
+ 
+
+5.Add friend’s name,sender name and address fields into the letter by clicking on Insert Merge Field.
+6.Then finally in the mail Merge tool bar click Finish & Merge – Send email messages🡪By entering following fields click OK.
+			 
+
+
+5. Creating Worksheets in Excel- , Inserting, Deleting, Copying, Moving worksheets in Excel.Usage of formulas, Built-in functions in Excel.(Monthly income and expenditure statement.)A housewife maintains the budget expenditure in a spreadsheet under the headings Income and Expenses. 
+
+ 
+
+Procedure
+1. Enter the details for the columns such as week of the month, income for husband and wife, expenses for rent, bill, house hold, medical for 4 weeks
+2. Enter the formula =sum (D4:G4) in the cell H4 to calculate the expenditure. Apply the formula for all the cells till h8.
+3. Select rows --> HOME --> Cells --> Format --> auto fit Row Height.
+     Select columns --> HOME --> Cells --> format --> Auto fit column Width.
+
+
