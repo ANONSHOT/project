@@ -1,0 +1,56 @@
+7. Writing conditional expressions (using IF) and Using logical functions (AND, OR, NOT) 
+Using lookup and reference functions (Arithmetic functions, logical functions,text functions).
+Procedure
+Click on to start program Microsoft office Microsoft excel
+Step 1. Type the formula/function as given in the following tables and observe the 
+result. Formula must start with equal (=) sign
+=sum() it find the sum of values of a given range
+=mod() it find the remainder from the division 
+=power() it calculates the x power y
+=product() it calculates the product
+=sqrt() it find the square root of a numbe
+
+
+=date() it returns the serial number of a date. It counts number of days since 1900
+=today() it returns today's date.
+=day() it returns day from the given date.
+=month() it returns month from the given date.
+=year() it returns year from the given date
+
+
+
+=now() it returns the today’s date and time
+=time() it returns serial number of time
+=hour()it extract the hours form the time
+=minute() it extract the minute form the time
+=second() it extract the seconds form the time
+
+
+
+Function Example Output
+AND() AND(2<5,10>20)
+OR() OR(35=35,22>1)
+NOT() NOT(55>44)
+IF() IF(G2>=140,”Pass”,”Fail”)
+SUMIF() SUMIF(C2:F2,”<35”)
+=AND()it returns True, if expressions are True, otherwise return FALSE
+=OR() it returns TRUE, if expressions are TRUE, otherwise return FALSE
+=NOT() it returns TRUE, if expressions are TRUE, otherwise return FALSE
+=IF()return first value/statement, if condition is TRUE, otherwise returns second 
+value/statement. i.e. result is depending on condition status.
+=SUMIF() it finds the sum of values in a range which are satisfied by the condition.
+
+
+
+Test Functions:
+Function Example Output
+CHAR() Char(66)
+CODE() Code(“B”)
+LEN() Len(“computer”)
+UPPER() upper(“Knowledge”)
+LOWER() lower(“SCIENCE”)
+=CHAR() it returns a character for a given code
+=CODE() it returns a ASCII value of a character
+=LEN() it counts the number of characters in the input text
+=UPPER() it converts lower case text into upper case
+=LOWER() it converts upper case text into lower case
