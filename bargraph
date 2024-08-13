@@ -1,0 +1,18 @@
+6. Draw a bar graph to show expenditure tinder each heading.
+ Select the cells D8:G8
+ Insert --> 2 D Bar
+ Choose design --> select data
+ Select horizontal axis label --> Edit - select the cells D3:63 --> ok
+ Select series 1--> Edit --> type series name as Expenses.
+ Layout --> chart title --> above the chart --> type "Monthly expenditure chart"
+ Layout --> axis title --> primary vertical axis --> vertical title --> type "Headings"
+ Layout -->axis title -->primary horizontal axis -->title below axis -->type "amount in 
+Rs".
+ 7. Draw- a pie chart to show the distribution of salary.
+ Select the cells D8:G8and select 18 holding Ctrl key.
+ Insert --> pie --> 2-D pie
+ Layout --> Chart title --> Above the chart --> Distribution of monthly salary
+ Right Click on graph --> select data --> horizontal axis label --> edit --> select d3 to 
+g3 headings --> ok
+ Right Click on the graph --> select data --> horizontal axis label --> edit --> ctrl key 
++ select the heading savings --> ok
