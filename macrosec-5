@@ -1,0 +1,10 @@
+5. Write the procedure to create a macros in word.
+Procedure
+1. Open MS Office-MS Word – File – New.
+2. Go to Tool-Macro-Record Macro- Give the macro name.
+3. Select keyboard icon.
+4. Assign a shortcut key for the macro.
+5. Go to Insert- Picture- From File- browse for the required picture- click Insert.
+6. Type some text - change the font size, color and style by the standard tool bar.
+7. Go to Tool- Macro- click Stop recording.
+8. Open a new File-press the shortcut key assigned earlier
