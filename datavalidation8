@@ -1,0 +1,44 @@
+8. Data Validations :Specifying a valid range of values for a cell, Specifying a list of valid values 
+for a cell, Specifying custom validations based on formula for a cell, Sorting and Filtering 
+Data facility in MS Excel.
+1) Type the Employee Code, Employee Name, Basic Salary and Loan Amount data for 
+10 employees in the spreadsheet.
+2) Format all numbers as a currency.
+3) Center the spreadsheet headings across the spreadsheet.
+4) Format all text.
+5) Create a formula to compute DA as 50% of the Basic salary. 
+6) Create a formula to compute HRA as 12% of the Basic salary
+7) Create a formula to compute Total salary
+8) If Total salary is greater than 5,00,000, compute Tax as 20% of Total salary 
+otherwise 10% of the Total salary using a formula.
+A B C D E F G H I
+1 Salary for Month
+2 Emp 
+code
+Employee 
+Name
+Basic 
+Salary
+DA HRA Loan Total 
+Salary
+Annual
+Income
+Tax
+3
+Procedure
+1. Enter the details for 10 employees for employee code, name, Basic salary and loan.
+2. Resize the worksheet's rows and columns.
+ Select rows HOME --> Cells --> Format -->Auto fit Row Height.
+ Select columns --> HOME --> Cells --> Format --> Auto fit column Width.
+3. Format all the numbers as currency.
+ Select C3:112
+ Press Ctrl+A or HOME --> Format --> Format cells.
+ Select Number tab -->Choose proper currency from the category list box.
+4. To center the spreadsheet heading.
+ Select A1:I1HOME --> Merge and Center Apply the formula to compute DA, 
+HRA, monthly salary, total annual salary, and tax under the respective columns.
+5. To align worksheet data.
+ Select the entire table
+ Press Ctrl+A or HOME --> Format --> Format cells
+ Select Alignment tab --> select Center from Horizontal list box and vertical list
+box--> OK
