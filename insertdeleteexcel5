@@ -11,3 +11,15 @@ expenses.
 11.Create a formula to compute the savings and copy this to all the cells.
 12.Draw a bar graph to show expenditure under each heading.
 13.Draw Pie chart to show the distribution of salary.
+
+
+Procedure
+1. Enter the details for the columns such as week of the month, income for husband and 
+wife, expenses for rent, bill, house hold, medical for 4 weeks
+2. Enter the formula =sum (D4:G4) in the cell H4 to calculate the expenditure. Apply the 
+formula for all the cells till h8.
+3. Select rows --> HOME --> Cells --> Format --> auto fit Row Height.
+Select columns --> HOME --> Cells --> format --> Auto fit column Width.
+4. To center the spreadsheet heading
+Select A1:I1
+HOME --> Merge and Center.
